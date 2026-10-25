@@ -16,7 +16,7 @@ This inludes Wordpress setup, creating pages, categories and its many plug-ins.
 
 * Elementor  
 With Elementor, I could control the appearance of my website, be it choosing the font, applying colour themes or organizing the layout.
-![elementor](elemenotr.PNG)
+![elementor](elementor.PNG)
 
 * creating a logo  
 Of course, I had to design a logo fitting for the purpose of the website, and implement it in the website itself.
@@ -29,8 +29,8 @@ Since it had to be a platform for selling books, WooCommerce was absolutely esse
 
 * Site Kit  
 I also set up Google Site Kit which measures key metrics of the website, such as the number and background of site visitors.
-* other
-  I included the compulsory information about the user agreement, privacy policy and cookies.
+* other  
+I included the compulsory information about the user agreement, privacy policy and cookies.
 
 Here is an example of a book on my website. Upon clicking on it, it would provide information about the size, author and published year of the book.
 
