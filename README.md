@@ -11,6 +11,9 @@ Creating a website that can be used as a shop needed the following:
 The domain was secondhandraamatud.eu and zone.ee provided an environment for managing the virtual server behind it.
 * Wordpress  
 This inludes Wordpress setup, creating pages, categories and its many plug-ins.
+
+![wordpress](wordpress.PNG)
+
 * Elementor  
 With Elementor, I could control the appearance of my website, be it choosing the font, applying colour themes or organizing the layout.
 * creating a logo  
@@ -22,6 +25,8 @@ Of course, I had to design a logo fitting for the purpose of the website, and im
 Since it had to be a platform for selling books, WooCommerce was absolutely essential. Combined with the MultiParcels and Montonio plug-ins, I set up a system where one can select a product, make a secure payment and order the book to a parcel machine. Had there actually been any, WooCommerce would also have been the place for managing orders. 
 * Site Kit  
 I also set up Google Site Kit which measures key metrics of the website, such as the number and background of site visitors.
+* other
+  I included the compulsory information about the user agreement, privacy policy and cookies.
 
 Here is an example of a book on my website. Upon clicking on it, it would provide information about the size, author and published year of the book.
 
