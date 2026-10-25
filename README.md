@@ -11,7 +11,12 @@ The domain was secondhandraamatud.eu and zone.ee provided an environment for man
 This inludes Wordpress setup, creating pages and its many plug-ins, that are counted in the list.
 * Elementor  
 With Elementor, I could control the appearance of my website, be it choosing the font, applying colour themes or organizing the layout.
-* logo  
+* creating a logo  
 Of course, I had to design a logo fitting for the purpose of the website, and implement it in the website itself.
+
 ![logo](Logo.png)
 
+* WooCommerce
+Since it had to be a platform for selling books, WooCommerce was absolutely essential. Combined with the MultiParcels and Montonio plug-ins, I set up a system where one can select a product, make a secure payment and order the book to a parcel machine. Had there actually been any, WooCommerce would also have been the place for managing orders. 
+* Site Kit
+I also set up Google Site Kit which measures key metrics of the website, such as the number and background of site visitors.
