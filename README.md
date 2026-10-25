@@ -5,13 +5,13 @@ This website was created in 12th grade of highschool as part of a course for cre
 
 ## Skills
 Creating a website that can be used as a shop needed the following:
-*domain hosting in zone.ee
+* domain hosting in zone.ee
 The domain was secondhandraamatud.eu and zone.ee provided an environment for managing the virtual server behind it.
-*Wordpress
+* Wordpress
 This inludes Wordpress setup, creating pages and its many plug-ins, that are counted in the list.
-*Elementor
+* Elementor
 With Elementor, I could control the appearance of my website, be it choosing the font, applying colour themes or organizing the layout.
-*log
+* log
 Of course, I had to design a logo fitting for the purpose of the website, and implement it in the website itself.
 ![logo](Logo.png)
 
