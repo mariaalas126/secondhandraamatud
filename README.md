@@ -16,6 +16,7 @@ This inludes Wordpress setup, creating pages, categories and its many plug-ins.
 
 * Elementor  
 With Elementor, I could control the appearance of my website, be it choosing the font, applying colour themes or organizing the layout.
+
 ![elementor](elementor.PNG)
 
 * creating a logo  
@@ -25,6 +26,7 @@ Of course, I had to design a logo fitting for the purpose of the website, and im
 
 * WooCommerce  
 Since it had to be a platform for selling books, WooCommerce was absolutely essential. Combined with the MultiParcels and Montonio plug-ins, I set up a system where one can select a product, make a secure payment and order the book to a parcel machine. Had there actually been any, WooCommerce would also have been the place for managing orders.
+
 ![checkout](checkout.PNG)
 
 * Site Kit  
@@ -32,6 +34,6 @@ I also set up Google Site Kit which measures key metrics of the website, such as
 * other  
 I included the compulsory information about the user agreement, privacy policy and cookies.
 
-Here is an example of a book on my website. Upon clicking on it, it would provide information about the size, author and published year of the book.
+Here is an example of a book on my website.
 
-![book](raamatunäide.PNG)
+![book](raamat.PNG)
